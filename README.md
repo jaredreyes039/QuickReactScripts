@@ -12,6 +12,7 @@
 		- dir_name will be where your backend and client code will exist
 			- client side react code will be installed in default directory ./client, but that is an easy change in the script for your personal needs
 
+
 	```
 	./QuickReactApp.sh <dir_name>
 	```
@@ -33,6 +34,7 @@
 	- Are the proper permissions granted?
 		- Exec, write, and read
 	- Enter the following code:
+	
 
 	```
 	npx create-react-app <dir_name>
